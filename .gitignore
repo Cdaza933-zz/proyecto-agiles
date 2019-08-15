@@ -1,0 +1,11 @@
+/venv34/
+/venv35/
+/venv36/
+/venv362/
+/venv35prot/
+/venv34temp/
+/venv34_master/
+/.idea/
+/.vscode/
+*.pyc
+.idea
